@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1741280631 source:e:\itla\8vo cuatrimestre\programacion para mecatronicos\programas de cap 8\capitulo 8 ejercicio 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
