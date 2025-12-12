@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1765541204 source:c:\users\joelc\desktop\tarea 11 programa solicitado (búsqueda por autor)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

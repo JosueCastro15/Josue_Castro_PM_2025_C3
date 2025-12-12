@@ -1,0 +1,6 @@
+2020|Josue Castro|Cuentos Fantasticos|Antologia a diversos temas fantiasticos y reales|570.00|6
+2012|Andres Lopez|Algebra Lineal Aplicada|Libro academico con teoria, ejemplos y apalicaciones en ingenieria.|640.08|5
+2023|Sofia Ramirez|Introduccion a la inteligencia Artificial|Conceptos modernos de IA, redes neuronales y aprendizaje.|1500.00|4
+2015|Miguel Fernandez|Electornica Anlogica Aplicada|Estudio practico de conceptos en circuitos con diodos, BJTs y amplificadores operacionales.|875.99|3
+2020|Laura Paredes|Arquitectura de Computadoras|Explicacion al detalle de Hardware, buses, memoria y proceso digitalizado.|1200.00|2
+2018|Carlos Mendoza|Programacion avanzado II|Guia completa de funamentos avanzados en estructura C|950.75|1
